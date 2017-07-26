@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>home</title>
+	<title>project</title>
 </head>
 <body>
-       ini halaman home
+    ini halaman project
 </body>
 </html>
