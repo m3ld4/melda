@@ -28,7 +28,7 @@ Route::get('/testmodel1',function(){
  	return $b;
  });
 Route::get('/testmodel2',function(){
-	$c=App\post::where('title','like','%cepat, nikah%')->get();
+	$c=App\post::where('title','like','%Tips Cepat Nikah%')->get();
  	return $c;
  });
 
@@ -49,7 +49,7 @@ Route::get('/test1',function(){
  	return $bb;
  });
 Route::get('/test2',function(){
-	$cc=App\siswa::where('nama','like','%cili')->get();
+	$cc=App\siswa::where('nama','like','%melda sofiana%')->get();
  	return $cc;
  });
 
